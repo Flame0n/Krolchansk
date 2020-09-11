@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808335114604",
+    "firebase_url": "https://krolchansk-fdea7.firebaseio.com",
+    "project_id": "krolchansk-fdea7",
+    "storage_bucket": "krolchansk-fdea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808335114604:android:7292a12a5728516f1df349",
+        "android_client_info": {
+          "package_name": "com.example.krolchansk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808335114604-asa5u56mv787tf4i1td78ch8oq9i0qbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoFC2xft6_WFhD-UyoIkzsCmPKrZwKh8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808335114604-asa5u56mv787tf4i1td78ch8oq9i0qbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

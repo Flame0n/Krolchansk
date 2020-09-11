@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_vector_rabbit"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/navigation_assortment"
+        android:icon="@drawable/ic_vector_list"
+        android:title="Ассортимент" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_vector_cart"
+        android:title="Корзина" />
+
+    <item
+        android:id="@+id/navigation_call"
+        android:icon="@drawable/ic_vector_phone"
+        android:title="Звонок" />
+
+
+</menu>

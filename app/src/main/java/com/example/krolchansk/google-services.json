@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971626209869",
+    "firebase_url": "https://django-test-5c33d.firebaseio.com",
+    "project_id": "django-test-5c33d",
+    "storage_bucket": "django-test-5c33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971626209869:android:78185d1e20aeb1b92ef204",
+        "android_client_info": {
+          "package_name": "com.example.krolchansk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971626209869-lrp7869qpspaea7ccmof4b92a6fburv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krolchansk",
+            "certificate_hash": "898c71fdf4d3d4a4d7cad859b8d14fc4c74d668d"
+          }
+        },
+        {
+          "client_id": "971626209869-u3p0ij4pr2pcf24g7uqq800vgk300off.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFw5evXXYHIOtLKn__7e8X1mqeUmKB2qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971626209869-u3p0ij4pr2pcf24g7uqq800vgk300off.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

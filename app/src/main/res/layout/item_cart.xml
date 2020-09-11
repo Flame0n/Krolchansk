@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text_view_item_cart_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/app_name"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/text_view_item_cart_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="X20"
+            android:textColor="#888888"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/text_view_item_cart_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+android:layout_marginVertical="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="7dp"
+            android:text="Price"
+            android:textColor="#888888"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="16dp"
+            android:text="₽"
+            android:textColor="#888888"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_view_item_cart_halal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="Халяль"
+        android:textColor="#777777"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/text_view_item_cart_certificate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="Ветеринарное освидетельствование"
+        android:textColor="#777777"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/text_view_item_cart_cut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="Разрубка"
+        android:textColor="#777777"
+        android:textSize="16dp" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/darker_gray" />
+
+
+
+</LinearLayout>
+
+
+
+
